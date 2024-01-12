@@ -1,0 +1,15 @@
+C:\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.deps.json
+C:\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.dll
+C:\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.pdb
+C:\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.Models.dll
+C:\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.Models.pdb
+C:\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.AssemblyReference.cache
+C:\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.AssemblyInfoInputs.cache
+C:\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.AssemblyInfo.cs
+C:\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.CoreCompileInputs.cache
+C:\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.CopyComplete
+C:\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.dll
+C:\Abby\Abby.DataAccess\obj\Debug\net6.0\refint\Abby.DataAccess.dll
+C:\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.pdb
+C:\Abby\Abby.DataAccess\obj\Debug\net6.0\ref\Abby.DataAccess.dll

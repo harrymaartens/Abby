@@ -1,0 +1,11 @@
+C:\Abby\Abby.Models\bin\Debug\net6.0\Abby.Models.deps.json
+C:\Abby\Abby.Models\bin\Debug\net6.0\Abby.Models.dll
+C:\Abby\Abby.Models\bin\Debug\net6.0\Abby.Models.pdb
+C:\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.AssemblyInfoInputs.cache
+C:\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.AssemblyInfo.cs
+C:\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.csproj.CoreCompileInputs.cache
+C:\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.dll
+C:\Abby\Abby.Models\obj\Debug\net6.0\refint\Abby.Models.dll
+C:\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.pdb
+C:\Abby\Abby.Models\obj\Debug\net6.0\ref\Abby.Models.dll
