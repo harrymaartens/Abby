@@ -13,3 +13,20 @@ C:\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.dll
 C:\Abby\Abby.DataAccess\obj\Debug\net6.0\refint\Abby.DataAccess.dll
 C:\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.pdb
 C:\Abby\Abby.DataAccess\obj\Debug\net6.0\ref\Abby.DataAccess.dll
+C:\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.sourcelink.json
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.deps.json
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.dll
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.DataAccess.pdb
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.Models.dll
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\bin\Debug\net6.0\Abby.Models.pdb
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.AssemblyReference.cache
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.AssemblyInfoInputs.cache
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.AssemblyInfo.cs
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.CoreCompileInputs.cache
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.sourcelink.json
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.csproj.CopyComplete
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.dll
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\obj\Debug\net6.0\refint\Abby.DataAccess.dll
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\obj\Debug\net6.0\Abby.DataAccess.pdb
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.DataAccess\obj\Debug\net6.0\ref\Abby.DataAccess.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AbbyWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a29301cd63f5bbee01dc68c06088c0fb04340541")]
 [assembly: System.Reflection.AssemblyProductAttribute("AbbyWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AbbyWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

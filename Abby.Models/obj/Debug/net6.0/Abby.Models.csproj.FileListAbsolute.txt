@@ -9,3 +9,16 @@ C:\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.dll
 C:\Abby\Abby.Models\obj\Debug\net6.0\refint\Abby.Models.dll
 C:\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.pdb
 C:\Abby\Abby.Models\obj\Debug\net6.0\ref\Abby.Models.dll
+C:\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.sourcelink.json
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\bin\Debug\net6.0\Abby.Models.deps.json
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\bin\Debug\net6.0\Abby.Models.dll
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\bin\Debug\net6.0\Abby.Models.pdb
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.AssemblyInfoInputs.cache
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.AssemblyInfo.cs
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.csproj.CoreCompileInputs.cache
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.sourcelink.json
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.dll
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\obj\Debug\net6.0\refint\Abby.Models.dll
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\obj\Debug\net6.0\Abby.Models.pdb
+C:\_DotnetMastery\Abby\Section 7\Abby\Abby.Models\obj\Debug\net6.0\ref\Abby.Models.dll
